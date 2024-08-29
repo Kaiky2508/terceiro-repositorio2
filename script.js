@@ -63,6 +63,7 @@ const perguntas = [
       " Ao incentivar a produção em larga escala de alimentos tradicionais, a agroecologia contribui para a uniformização das práticas alimentares, minimizando as diferenças culturais e, consequentemente, combatendo o racismo.",
     ]
 
+    
   }
 ];
 
