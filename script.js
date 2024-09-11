@@ -21,7 +21,7 @@ const perguntas = [
             {
                 texto: "Ao enfatizar a feijoada apenas como um prato de origem europeia, a promoção da feijoada não contribui para a desmistificação de estereótipos raciais nem para a preservação agroecológica.",
                 afirmacao: "Promover a feijoada como um símbolo da diversidade cultural, destacando sua conexão com práticas agroecológicas e a herança afro-brasileira, pode ajudar a combater estereótipos raciais ao reconhecer e valorizar a contribuição cultural e a importância ambiental dos ingredientes."
-            }
+            },
         ]
     },
     {
@@ -32,7 +32,7 @@ const perguntas = [
 
                 texto: "A feijoada preserva tradições culturais afro-brasileiras, mas também reflete desigualdades e racismo histórico, pois ingredientes mais nobres eram consumidos pela elite branca, enquanto os cortes simples eram para as populações afrodescendentes ",
                 afirmacao: "A feijoada não tem nenhuma relação com a culinária afro-brasileira ou com a história da desigualdade social no Brasil. ela é simplesmente um prato típico de qualquer cozinha brasileira, sem conexão com aspectos culturais ou históricos específicos das comunidades afrodescendentes. "
-            }
+            },
         ]
     },
     {
@@ -42,7 +42,7 @@ const perguntas = [
 
                 texto: " A feijoada, embora considerada um prato típico e tradicional do Brasil, tem suas origens na culinária dos escravizados africanos, refletindo as relações de poder e opressão da época.",
                 afirmacao: "A história da feijoada pode ilustrar as desigualdades sociais e raciais, destacando a necessidade de uma reavaliação crítica das tradições e da forma como elas são interpretadas e celebradas."
-            }
+            },
         ]
     },
     {
@@ -52,7 +52,7 @@ const perguntas = [
 
                 texto: "A preservação da feijoada como símbolo cultural afro-brasileiro está intrinsecamente ligada tanto à sua resistência ao racismo quanto à sua valorização contemporânea. ",
                 afirmacao: " A feijoada é preservada principalmente por ser um prato que não tem relação com a cultura afro-brasileira, mas sim com tradições de outras regiões do Brasil."
-            }
+            },
         ]
     },
     {
@@ -62,7 +62,7 @@ const perguntas = [
 
                 texto: " Ao promover a sustentabilidade e o respeito às culturas tradicionais, a agroecologia valoriza a contribuição afro-brasileira à culinária, como a feijoada, e combate o racismo ao garantir que essas práticas sejam respeitadas e preservadas.",
                 afirmacao: " Ao incentivar a produção em larga escala de alimentos tradicionais, a agroecologia contribui para a uniformização das práticas alimentares, minimizando as diferenças culturais e, consequentemente, combatendo o racismo."
-            }
+            },
         ]
     }
 ];
